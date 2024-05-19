@@ -1,2 +1,1 @@
-# practice
-todo dia um novo teste
+# bem vindo ao git 
